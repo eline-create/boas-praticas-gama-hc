@@ -1,5 +1,7 @@
-# Gama Academy :)
-## Template Node FullJS
+# Boas Práticas 
+## Orientado pelo professor: <https://github.com/mrdouglasmorais>
+
+### Utilizando um Template Node FullJS
 
 Para iniciar o projeto:
 `git clone https://github.com/mrdouglasmorais/template-node-fulljs`
@@ -14,4 +16,3 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-## Professor Douglas Morais
