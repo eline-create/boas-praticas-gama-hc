@@ -1,4 +1,4 @@
-# Boas Práticas 
+# Boas Práticas para Desenvolvimento de Aplicações Web (FrontEnd)
 ## Orientado pelo professor: <https://github.com/mrdouglasmorais>
 
 ### Utilizando um Template Node FullJS
